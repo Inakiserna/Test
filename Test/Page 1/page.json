@@ -40,7 +40,23 @@
     },
     {
       "class": "shapeGroup",
+      "id": "69DA6E9C-9CF2-4440-9C42-60EC5F8653CA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B5DAE2F9-890B-47E0-9FFC-64DE6C47B6E1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DE4E5759-5268-4F41-A8DE-D0728925AF32"
+    },
+    {
+      "class": "shapeGroup",
       "id": "A0C5BD7E-62C7-46BC-85EE-69664AB302EF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "27B13251-B3C1-4A29-B7CE-616F8CEF5F5B"
     }
   ],
   "name": "Page 1",
